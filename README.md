@@ -1,9 +1,9 @@
 # Prize-Premium
 Publicly available codes for the paper 'The Prize Premium in Publishing Timelines' for the Journal of Informetrics
 
-# Data Curation Pipeline: Scientific Awards and Collaboration Impact Analysis
+# Data Curation Pipeline
 
-This document outlines the end-to-end data curation workflow developed to construct the analytical dataset for the project. The process integrates data from **OpenAlex**, **PubMed**, **Nature Index**, and **Journal Citation Reports (JCR)** to analyze the publication trajectories of award-winning scientists and their co-authors.
+This document first outlines the end-to-end data curation workflow developed to construct the analytical dataset for the project. The process integrates data from **OpenAlex** (mainly), **PubMed** (mainly), **Nature Index**, and **Journal Citation Reports (JCR)** to analyze the publication trajectories of award-winning scientists and their co-authors.
 
 The workflow is divided into discrete steps implemented via Jupyter Notebooks, ensuring modularity, reproducibility, and rigorous data validation.
 
